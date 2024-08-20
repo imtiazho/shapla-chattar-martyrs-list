@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "name": "",
+        "age": 1,
+        "parents" : {
+            "father": "",
+            "mother": ""
+        },
+        "profession": "",
+        "institution": "",
+        "presentAddress": {
+            "district": "",
+            "policeStation": "",
+            "villageOrArea": "",
+            "PO": "",
+            "PS": "",
+            "dist": ""
+        },
+        "permanentAddress": {
+            "district": "",
+            "policeStation": "",
+            "PostOffice": "",
+            "villageOrArea": "",
+            "union": ""
+        },
+        "Graveyard": "Madaninagar Graveyard, Siddhirganj, Narayanganj",
+        "deathDetails": "Shot in abdomen at around 7:30 am on 6 May and died on the way to a hospital at Sanarpar at around 8:30 am."        
+    }
+]
