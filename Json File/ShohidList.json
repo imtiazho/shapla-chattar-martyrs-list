@@ -1,30 +1,132 @@
 [
     {
-        "id": "1",
-        "name": "",
-        "age": 1,
-        "parents" : {
-            "father": "",
-            "mother": ""
+        "id": 1,
+        "name": "Ataur Rahman",
+        "age": 24,
+        "parents": {
+            "father": "Md. Siddiqur Rahman",
+            "mother": "Most. Nurjahan Begum"
         },
-        "profession": "",
-        "institution": "",
-        "presentAddress": {
-            "district": "",
-            "policeStation": "",
+        "presentAddressAndProfession": {
+            "profession": "Madrassa teacher",
+            "institution": "Mudafa Jamia Islamia Madrassa, Tongi, Gazipur",
+            "district": "Gazipur",
+            "policeStation": "Tongi",
             "villageOrArea": "",
-            "PO": "",
-            "PS": "",
-            "dist": ""
+            "PO": ""
         },
         "permanentAddress": {
-            "district": "",
-            "policeStation": "",
-            "PostOffice": "",
-            "villageOrArea": "",
+            "district": "Mymensingh",
+            "policeStation": "Phulpur",
+            "villageOrArea": "Sutiapara",
+            "PostOffice": "Azampur-2250",
             "union": ""
         },
-        "Graveyard": "Madaninagar Graveyard, Siddhirganj, Narayanganj",
-        "deathDetails": "Shot in abdomen at around 7:30 am on 6 May and died on the way to a hospital at Sanarpar at around 8:30 am."        
+        "Graveyard": "At a graveyard in his village in Phulpur, Mymensingh",
+        "deathDetails": "He was shot dead at 5.30 pm on 5 May 2013. His body was brought to his village in Phulpur, Mymensingh on 6 May 2013."
+    },
+    {
+        "id": 2,
+        "name": "Md. Esha Huq Ali",
+        "age": 45,
+        "parents": {
+            "father": "Soleman Mondol",
+            "mother": "Khushjan Nesa"
+        },
+        "presentAddressAndProfession": {
+            "profession": "Private service",
+            "institution": "",
+            "district": "Gazipur",
+            "policeStation": "Kaliakoir",
+            "villageOrArea": "Horin Hati",
+            "PO": "Ansar Academy-1751"
+        },
+        "permanentAddress": {
+            "district": "Kushtia",
+            "policeStation": "Doulatpur",
+            "villageOrArea": "Telengangdia",
+            "PostOffice": "",
+            "union": "Refayetpur"
+        },
+        "Graveyard": "At Telegandia, Daulatpur, Kustia",
+        "deathDetails": "He was shot in chest and died at Shapla Chattar in Motijheel, Dhaka on 5 May 2013."
+    },
+    {
+        "id": 3,
+        "name": "Hafez Md. Mahmudul Hasan Zubair",
+        "age": 20,
+        "parents": {
+            "father": "Abdul Based",
+            "mother": "Rahima Begum"
+        },
+        "presentAddressAndProfession": {
+            "profession": "Student",
+            "institution": "Madhobdi Dorgabari Madrassa",
+            "district": "Narshingdi",
+            "policeStation": "Narshingdi Sadar",
+            "villageOrArea": "Bokultala Satirpara",
+            "PO": ""
+        },
+        "permanentAddress": {
+            "district": "Narshingdi",
+            "policeStation": "Narshingdi Sadar",
+            "villageOrArea": "Bokultala Satirpara",
+            "PostOffice": "",
+            "union": ""
+        },
+        "Graveyard": "At Kawriapara Graveyard in Narshingdi",
+        "deathDetails": "He was shot in head on 5 May 2013 at the Dainik Bangla Mor. He was brought dead at the Baraka General Hospital at 2:30 am on 6 May 2013."
+    },
+    {
+        "id": 4,
+        "name": "Abu Bakar Siddiq",
+        "age": 25,
+        "parents": {
+            "father": "Md. Aminul Islam",
+            "mother": "Jinnatunnesa"
+        },
+        "presentAddressAndProfession": {
+            "profession": "Bus helper",
+            "institution": "Hanif Enterprise, Saydabad, Dhaka",
+            "district": "Dhaka",
+            "policeStation": "Saydabad",
+            "villageOrArea": "",
+            "PO": ""
+        },
+        "permanentAddress": {
+            "district": "Dinajpur",
+            "policeStation": "Birganj",
+            "villageOrArea": "Chaulia 6 No Ward",
+            "PostOffice": "",
+            "union": "8 No. Bhognagar"
+        },
+        "Graveyard": "At Chaulia Graveyard, 8 No. Bhognagar Union, 6 No. Ward, Birganj, Dinajpur",
+        "deathDetails": "He was shot in chest and abdomen and died on 5 May 2013."
+    },
+    {
+        "id": 5,
+        "name": "Abdul Wahab Molla",
+        "age": 25,
+        "parents": {
+            "father": "Shah Newaz Molla",
+            "mother": "Saleha Khatun"
+        },
+        "presentAddressAndProfession": {
+            "profession": "Madrassa Student",
+            "institution": "",
+            "district": "Mymensingh",
+            "policeStation": "Bhaluka",
+            "villageOrArea": "Talabo",
+            "PO": ""
+        },
+        "permanentAddress": {
+            "district": "Mymensingh",
+            "policeStation": "Bhaluka",
+            "villageOrArea": "Talabo",
+            "PostOffice": "",
+            "union": ""
+        },
+        "Graveyard": "At Bhaluka, Mymensingh",
+        "deathDetails": "He was shot in head and bally and died at 6.30 pm on 5 May 2013."
     }
 ]

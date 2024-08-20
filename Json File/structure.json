@@ -1,0 +1,26 @@
+{
+    "id": 1,
+    "name": "",
+    "age": 1,
+    "parents": {
+        "father": "",
+        "mother": ""
+    },
+    "presentAddressAndProfession": {
+        "profession": "",
+        "institution": "",
+        "district": "",
+        "policeStation": "",
+        "villageOrArea": "",
+        "PO": ""
+    },
+    "permanentAddress": {
+        "district": "",
+        "policeStation": "",
+        "villageOrArea": "",
+        "PostOffice": "",
+        "union": ""
+    },
+    "Graveyard": "",
+    "deathDetails": ""
+}
