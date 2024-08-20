@@ -128,5 +128,135 @@
         },
         "Graveyard": "At Bhaluka, Mymensingh",
         "deathDetails": "He was shot in head and bally and died at 6.30 pm on 5 May 2013."
+    },
+    {
+        "id": 6,
+        "name": "Md. Sirajul Islam",
+        "age": 22,
+        "parents": {
+            "father": "Md. Amir Uddin",
+            "mother": "Most. Suleyma Khatun"
+        },
+        "presentAddressAndProfession": {
+            "profession": "Madrassah student",
+            "institution": "Mitabhul Ulum Madrassa, Maskanda, Mymensingh",
+            "district": "Mymensingh",
+            "policeStation": "",
+            "villageOrArea": "Maskanda",
+            "PO": ""
+        },
+        "permanentAddress": {
+            "district": "Mymensingh",
+            "policeStation": "Ishwarganj",
+            "villageOrArea": "Nijtulondhor, Islampur",
+            "PostOffice": "",
+            "union": ""
+        },
+        "Graveyard": "Sirajul's family did not get the dead body. The family believes that his body has beed disappeared",
+        "deathDetails": "On 6 May 2013 at 7.00 am when Nurul Islam called Sirajul Islam's mobile then an unknown person received the call and informed Nurul Islam that at 3:45 Sirajul was shot in head he took him to the van. Nurul Islam believed that his brother had died."
+    },
+    {
+        "id": 7,
+        "name": "Muktar Mia",
+        "age": 15,
+        "parents": {
+            "father": "Mohor Ali",
+            "mother": "Momina"
+        },
+        "presentAddressAndProfession": {
+            "profession": "Student",
+             "institution": "Rashulpur High School",
+            "district": "Narsingdi",
+            "policeStation": "Raipura",
+            "villageOrArea": "Bakhar Nargar",
+            "PO": ""
+        },
+        "permanentAddress": {
+            "district": "Narsingdi",
+            "policeStation": "Raipura",
+            "villageOrArea": "Bakhar Nargar",
+            "PostOffice": "",
+            "union": ""
+        },
+        "Graveyard": "At graveyard, Rajpura, Narsingdi",
+        "deathDetails": "He went to join the rally at Shapla Chattar in Motijheel, Dhaka and was shot in chest and neck and died on 5 May 2013 night. His body recovered on 6 May 2013."
+    },
+    {
+        "id": 8,
+        "name": "Kazi Mohammad Rakibul Haque",
+        "age": 43,
+        "parents": {
+            "father": "Kazi Mohammad Azizul Haq (Late)",
+            "mother": "Mahmuda Begum"
+        },
+        "presentAddressAndProfession": {
+            "profession": "",
+            "institution": "",
+            "district": "Dhaka",
+            "policeStation": "Jatrabari",
+            "villageOrArea": "kazlar par, Matuail",
+            "PO": "Donia - 1236"
+        },
+        "permanentAddress": {
+            "district": "Munshiganj",
+            "policeStation": "Sreenagar",
+            "villageOrArea": "Shologhar",
+            "PostOffice": "",
+            "union": ""
+        },
+        "Graveyard": "At Matuail graveyard, Demra, Dhaka",
+        "deathDetails": "He was dead shot on 5 May 2013 night in Shapla Chattar, Motijheel, Dhaka"
+    },
+    {
+        "id": 9,
+        "name": "Al-Amin",
+        "age": 18,
+        "parents": {
+            "father": "Abdul Jabbar Sheikh",
+            "mother": "Nosiron"
+        },
+        "presentAddressAndProfession": {
+            "profession": "Madrassa Student",
+            "institution": "Fulbaria Madrassa, Dhaka",
+            "district": "Dhaka",
+            "policeStation": "",
+            "villageOrArea": "",
+            "PO": ""
+        },
+        "permanentAddress": {
+            "district": "Faridpur",
+            "policeStation": "Faridpur Sadar",
+            "villageOrArea": "Waujddin Bisshaspara, Char Durgapur",
+            "PostOffice": "Momonkatharhat - 7800",
+            "union": ""
+        },
+        "Graveyard": "At Durgapur Graveyard, Kacharitek",
+        "deathDetails": "He was shot in waist and died on 5 May 2013."
+    },
+    {
+        "id": 10,
+        "name": "Md. Nazrul Islam",
+        "age": 30,
+        "parents": {
+            "father": "Momtaz Uddin",
+            "mother": "Sanusunhar Begum"
+        },
+        "presentAddressAndProfession": {
+            "profession": "A local journalist and a private tutor",
+            "institution": "",
+            "district": "Dhaka",
+            "policeStation": "Mirpur",
+            "villageOrArea": "Mirpur-1, Dhaka",
+            "PO": ""
+        },
+        "permanentAddress": {
+            "district": "Narshingdi",
+            "policeStation": "Monohardi",
+            "villageOrArea": "Dairepar(Chartatdi), kebutola",
+            "PostOffice": "",
+            "union": ""
+        },
+        "Graveyard": "Sardarbari graveyard in Narsingd",
+        "deathDetails": "He was injured at Shapla Chattar in Motijheel, Dhaka on 5 May 2013 and died on 14 May 2013 in Dhaka Medical College Hospital"
     }
 ]
