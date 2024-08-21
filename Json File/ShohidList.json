@@ -258,5 +258,135 @@
         },
         "Graveyard": "Sardarbari graveyard in Narsingd",
         "deathDetails": "He was injured at Shapla Chattar in Motijheel, Dhaka on 5 May 2013 and died on 14 May 2013 in Dhaka Medical College Hospital"
+    },
+    {
+        "id": 11,
+        "name": "Deen Islam Mir",
+        "age": 38,
+        "parents": {
+            "father": "Mir Mohammad",
+            "mother": "Halima Begum"
+        },
+        "presentAddressAndProfession": {
+            "profession": "",
+            "institution": "",
+            "district": "Munshiganj",
+            "policeStation": "Sirajdikhan",
+            "villageOrArea": "New Bhasanchar",
+            "PO": "Khasmahal Baluchar-1543"
+        },
+        "permanentAddress": {
+            "district": "Munshiganj",
+            "policeStation": "Sirajdikhan",
+            "villageOrArea": "New Bhasanchar",
+            "PostOffice": "Khasmahal Baluchar-1543",
+            "union": "Baluchar"
+        },
+        "Graveyard": "At graveyard in Bhashanchar.",
+        "deathDetails": "He was shot dead on 5 May 2013. His body was found at Dhaka Medical College Hospital Morgue on 6 May 2013."
+    },
+    {
+        "id": 12,
+        "name": "Maulana Md. Yunus Ali",
+        "age": 35,
+        "parents": {
+            "father": "Nazimuddin",
+            "mother": "Momotaz"
+        },
+        "presentAddressAndProfession": {
+            "profession": "Imam of a mosque",
+            "institution": "",
+            "district": "Gazipur",
+            "policeStation": "Kaliganj",
+            "villageOrArea": "Bangal, Hawla",
+            "PO": ""
+        },
+        "permanentAddress": {
+            "district": "Gazipur",
+            "policeStation": "Kaliganj",
+            "villageOrArea": "Bangal, Hawla",
+            "PostOffice": "",
+            "union": ""
+        },
+        "Graveyard": "At Bangal Hawla village in Gazipur",
+        "deathDetails": "He was shot dead on 5 May 2013."
+    },
+    {
+        "id": 13,
+        "name": "Sadam Hossain",
+        "age": 19,
+        "parents": {
+            "father": "Rofiqul Islam",
+            "mother": "Sahida Begum"
+        },
+        "presentAddressAndProfession": {
+            "profession": "Khatib and Teacher",
+            "institution": "Boikonthopur Jame Mosjid and Shah Habib Madrassa",
+            "district": "Faridpur",
+            "policeStation": "Modhukhali",
+            "villageOrArea": "Mohishapur",
+            "PO": ""
+        },
+        "permanentAddress": {
+            "district": "Faridpur",
+            "policeStation": "Modhukhali",
+            "villageOrArea": "Mohishapur",
+            "PostOffice": "",
+            "union": ""
+        },
+        "Graveyard": "At Mohishapur graveyard in Faridpur",
+        "deathDetails": "He was shot forehead on 5 May 2013. The family found Sadam Hossain's body on 9 May 2013 from Islam Bank Hospital."
+    },
+    {
+        "id": 14,
+        "name": "Md. Sadiul Islam alias Saidul Bari",
+        "age": 19,
+        "parents": {
+            "father": "Sirajul Islam Matubbar",
+            "mother": ""
+        },
+        "presentAddressAndProfession": {
+            "profession": "Student",
+            "institution": "Baitul Fazal Islamia Madrassa, Mohammadpur, Dhaka",
+            "district": "",
+            "policeStation": "",
+            "villageOrArea": "",
+            "PO": ""
+        },
+        "permanentAddress": {
+            "district": "Faridpur",
+            "policeStation": "Saltha",
+            "villageOrArea": "Yusufdia",
+            "PostOffice": "",
+            "union": ""
+        },
+        "Graveyard": "At Saltia, Faridpur",
+        "deathDetails": "Sadiqul went to join the Hefazat rally on 5 May 2013. He was stabbed in head and forehead. His body was found at Islam Bank Hospital, Dhaka on 7 May 2013."
+    },
+    {
+        "id": 15,
+        "name": "Mohammad Akbar Hossain",
+        "age": 22,
+        "parents": {
+            "father": "Nurul Islam",
+            "mother": "Kulsum Bibi"
+        },
+        "presentAddressAndProfession": {
+            "profession": "Student",
+            "institution": "",
+            "district": "Bhola",
+            "policeStation": "Dawlatkhan",
+            "villageOrArea": "Charshuvi",
+            "PO": ""
+        },
+        "permanentAddress": {
+            "district": "Bhola",
+            "policeStation": "Dawlatkhan",
+            "villageOrArea": "Charshuvi",
+            "PostOffice": "",
+            "union": "Sayedpur"
+        },
+        "Graveyard": "At village graveyard at Dawlatkhan, Bhola.",
+        "deathDetails": "He went to join the Hefazat rally on 5 May 2013. At around 11:00 pm, he called his cousin and informed him that he was unable to leave Shapla Chattar due to violence. He was shot in dead. His family came to know the death of Akbar on 8 May 2013."
     }
 ]
