@@ -388,5 +388,135 @@
         },
         "Graveyard": "At village graveyard at Dawlatkhan, Bhola.",
         "deathDetails": "He went to join the Hefazat rally on 5 May 2013. At around 11:00 pm, he called his cousin and informed him that he was unable to leave Shapla Chattar due to violence. He was shot in dead. His family came to know the death of Akbar on 8 May 2013."
+    },
+    {
+        "id": 16,
+        "name": "Md. Ibrahim Khalil",
+        "age": 25,
+        "parents": {
+            "father": "Moulovi Abdur Rashid",
+            "mother": "Halima Khatun"
+        },
+        "presentAddressAndProfession": {
+           "profession": "Student",
+            "institution": "Barisal BM College",
+            "district": "Barisal",
+            "policeStation": "",
+            "villageOrArea": "West Kawnia",
+            "PO": ""
+        },
+        "permanentAddress": {
+            "district": "Patuakhali",
+            "policeStation": "Kalapara",
+            "villageOrArea": "Uttar Charpara",
+            "PostOffice": "Tegachhia",
+            "union": "Mithaganj"
+        },
+        "Graveyard": "At beside his house. Kalapara, Patuakhali.",
+        "deathDetails": "He was shot dead on 5 May 2013 at Shapla Chottor, Motijheel, Dhaka."
+    },
+    {
+        "id": 17,
+        "name": "Nahid Sikdar",
+        "age": 21,
+        "parents": {
+            "father": "Delwar Sikdar",
+            "mother": "Jahanara Begum"
+        },
+        "presentAddressAndProfession": {
+            "profession": "Driver",
+            "institution": "",
+            "district": "Dhaka",
+            "policeStation": "",
+            "villageOrArea": "Lalbag Moholla, Dhaler 7 No. Goli (Tenant of Javed Mia)",
+            "PO": ""
+        },
+        "permanentAddress": {
+            "district": "Barisal",
+            "policeStation": "Mehdiganj",
+            "villageOrArea": "Baherganj Patarhat",
+            "PostOffice": "Sreepur",
+            "union": ""
+        },
+        "Graveyard": "At Azimpur Graveyard, Dhaka",
+        "deathDetails": "He was shot in head and died in the night of 5 May 2013."
+    },
+    {
+        "id": 18,
+        "name": "Md. Yunus Mollah",
+        "age": 45,
+        "parents": {
+            "father": "Md. Shahjahan Mollah (Late)",
+            "mother": "Ambia Khatun"
+        },
+        "presentAddressAndProfession": {
+            "profession": "Day labour",
+            "institution": "",
+            "district": "Barisal",
+            "policeStation": "",
+            "villageOrArea": "Ward 25, South Rupatali, Bottola, Barisal City Corporation.",
+            "PO": ""
+        },
+        "permanentAddress": {
+            "district": "Barisal",
+            "policeStation": "Barisal Sadar",
+            "villageOrArea": "Ward 25, South Rupatali, Bottola",
+            "PostOffice": "",
+            "union": ""
+        },
+        "Graveyard": "Barisal City Corporation Graveyard.",
+        "deathDetails": "He was shot in head and died on 5 May 2013."
+    },
+    {
+        "id": 19,
+        "name": "Md. Moazzemul Haque alias Nannu",
+        "age": 51,
+        "parents": {
+            "father": "Md. Shahidul Islam (Late)",
+            "mother": "Hamida Khatun"
+        },
+        "presentAddressAndProfession": {
+            "profession": "Tailor",
+            "institution": "",
+            "district": "Norail",
+            "policeStation": "Norail",
+            "villageOrArea": "Durgapur",
+            "PO": "Norail"
+        },
+        "permanentAddress": {
+            "district": "Jessore",
+            "policeStation": "Kotwali",
+            "villageOrArea": "Raipara, Khorki",
+            "PostOffice": "",
+            "union": ""
+        },
+        "Graveyard": "At Khorki Graveyard, Jessore",
+        "deathDetails": "He was injured on 5 May 2013 and admitted to different hospitals. He had been treated at Al Manar Hospital and Millennium Heart & General Hospital Ltd. in Dhaka. His condition was very critical. As the treatment in private hospitals was huge expensive, on 11 May 2013 victim's family had to shift him to Jessore General Hospital. He died at Manikganj on the way to Jessore."
+    },
+    {
+        "id": 20,
+        "name": "Mawlana Sihab Uddin",
+        "age": 60,
+        "parents": {
+            "father": "Shamsul Haque",
+            "mother": ""
+        },
+        "presentAddressAndProfession": {
+            "profession": "Teacher",
+            "institution": "Bogachatar Nuria Goniul Ulum Fazil Madrassa",
+            "district": "Chittagong",
+            "policeStation": "Sitakunda",
+            "villageOrArea": "",
+            "PO": ""
+        },
+        "permanentAddress": {
+            "district": "Chittagong",
+            "policeStation": "Mirersorai",
+            "villageOrArea": "Purba Domkhali",
+            "PostOffice": "",
+            "union": "Sahebkhali"
+        },
+        "Graveyard": "At family graveyard in Mirersorai, Chittagong.",
+        "deathDetails": "He attended Hefazate Islam rally and was shot dead on 5 May 2013 at Dainik Bangla Mor, Dhaka."
     }
 ]
