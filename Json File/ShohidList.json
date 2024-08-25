@@ -518,5 +518,267 @@
         },
         "Graveyard": "At family graveyard in Mirersorai, Chittagong.",
         "deathDetails": "He attended Hefazate Islam rally and was shot dead on 5 May 2013 at Dainik Bangla Mor, Dhaka."
+    },
+    {
+        "id": 21,
+        "name": "Md. Mahmud Hasan",
+        "age": 45,
+        "parents": {
+          "father": "Md. Shamsul Haque",
+          "mother": "Mahmuda Begum"
+        },
+        "presentAddressAndProfession": {
+          "profession": "Clothing business",
+          "institution": "",
+          "district": "Comilla",
+          "policeStation": "Nangalkot",
+          "villageOrArea": "Sreerampur (Hafez Bari)",
+          "PO": "Montoli Bazar-3580"
+        },
+        "permanentAddress": {
+          "district": "Comilla",
+          "policeStation": "Nangalkot",
+          "villageOrArea": "Sreerampur (Hafez Bari)",
+          "PostOffice": "",
+          "union": "Barket"
+        },
+        "Graveyard": "At Hafezzi Huzur Graveyard, Kamrangirchar, Dhaka",
+        "deathDetails": "He was shot in the chest at Baitul Mukarram Masjid area on 5 May 2013 afternoon. On 6 may at around 8.00 am his father - in - law learnt that Mahmud has died and hid body was in Islami Bank Hospital, Dhaka."
+    },
+    {
+        "id": 22,
+        "name": "Anwar Shah",
+        "age": 22,
+        "parents": {
+          "father": "Abdul Hasanat",
+          "mother": "Hasina Afroj"
+        },
+        "presentAddressAndProfession": {
+          "profession": "Student",
+          "institution": "Jamia Shariyah, Malibag, Dhaka",
+          "district": "",
+          "policeStation": "",
+          "villageOrArea": "",
+          "PO": ""
+        },
+        "permanentAddress": {
+          "district": "Noakhali",
+          "policeStation": "Chatkhil",
+          "villageOrArea": "Sreenagar(Munshi Bari)",
+          "PostOffice": "Ahmadnagar",
+          "union": ""
+        },
+        "Graveyard": "At his family Graveyard in Noakhali.",
+        "deathDetails": "He was shot dead on 5 May 2013 night."
+    },
+    {
+        "id": 23,
+        "name": "Md. Sajib Raihan Raja",
+        "age": 30,
+        "parents": {
+          "father": "Saidur Rahamn (Late)",
+          "mother": "Ferdousi Begum"
+        },
+        "presentAddressAndProfession": {
+            "profession": "Journalist ",
+            "institution": "The Daily Prothom Bhor(District Correspondent, Chapainawabganj)",
+            "district": "",
+            "policeStation": "",
+            "villageOrArea": "",
+            "PO": ""
+        },
+        "permanentAddress": {
+            "district": "Chapainawabganj",
+            "policeStation": "Chapainawabganj Sadar",
+            "villageOrArea": "Rajarampur, 7 no ward, Chapainawabganj Manicipality",
+            "PostOffice": "",
+            "union": ""
+        },
+        "Graveyard": "At Namo Rajarampur Graveyard, Chapainawabganj",
+        "deathDetails": "He joined the Hefazate Islam rally and was shot in the abdomen. He died on 9 May 2013 at around 10.00 am while under treatment in Dhaka Medical College Hospital."
+    },
+    {
+        "id": 24,
+        "name": "Mohammad Sadik Mia",
+        "age": 28,
+        "parents": {
+          "father": "Mohammad Rais Mia",
+          "mother": "Most. Ranu Begum"
+        },
+        "presentAddressAndProfession": {
+          "profession": "Filtered water supplier",
+          "institution": "",
+          "district": "Dhaka",
+          "policeStation": "Demra",
+          "villageOrArea": "Sandira Joka Mouza Part",
+          "PO": "Sarulia - 1361"
+        },
+        "permanentAddress": {
+          "district": "Brahmanbaria",
+          "policeStation": "Nabinagar",
+          "villageOrArea": "Borail",
+          "PostOffice": "",
+          "union": ""
+        },
+        "Graveyard": "At Shukorshi Graveyard, Demra, Dhaka (Reg. No. 2580)",
+        "deathDetails": "He was shot to death in left side of chest on 6 May 2013 at 7.30 while saving another Madrassa student in Madaninagar."
+    },
+    {
+        "id": 25,
+        "name": "Md. Ruhul Amin Rubel",
+        "age": 21,
+        "parents": {
+          "father": "Md. Bacchu Mia",
+          "mother": "Most. Moyna Begum"
+        },
+        "presentAddressAndProfession": {
+          "profession": "Garment worker (cutting section)",
+          "institution": "Sanarpar Lithi Garments",
+          "district": "Dhaka",
+          "policeStation": "Damra",
+          "villageOrArea": "East Boxnagar, Sarulia",
+          "PO": ""
+        },
+        "permanentAddress": {
+          "district": "Dhaka",
+          "policeStation": "Damra",
+          "villageOrArea": "East Boxnagar, Sarulia",
+          "PostOffice": "",
+          "union": ""
+        },
+        "Graveyard": "At Shukurshi Graveyard, Demra, Dhaka (Reg. No. 2582)",
+        "deathDetails": "On 6 May 2013 at 8.00 he was shot in his waist and died in Madaninagar."
+    },
+    {
+        "id": 26,
+        "name": "Sabbir",
+        "age": 13,
+        "parents": {
+          "father": "",
+          "mother": ""
+        },
+        "presentAddressAndProfession": {
+          "profession": "Student",
+          "institution": "",
+          "district": "Narayanganj",
+          "policeStation": "",
+          "villageOrArea": "Nimaikashari, Sanarpar",
+          "PO": ""
+        },
+        "permanentAddress": {
+          "district": "Brahmanbaria",
+          "policeStation": "Nabinagar",
+          "villageOrArea": "",
+          "PostOffice": "",
+          "union": ""
+        },
+        "Graveyard": "At Brahmanbaria",
+        "deathDetails": "Sabbir was injured by gunshot beside Al Jamiatul Islamia Darul Ulum Madrassa at around 8.00 am on 6 May 2013 and died in hospital after three days."
+    },
+    {
+        "id": 27,
+        "name": "Taher",
+        "age": "",
+        "parents": {
+          "father": "",
+          "mother": ""
+        },
+        "presentAddressAndProfession": {
+          "profession": "Rickshaw puller",
+          "institution": "",
+          "district": "Narayanganj",
+          "policeStation": "",
+          "villageOrArea": "Bottola, Rosulbag, Chittagong Road",
+          "PO": ""
+        },
+        "permanentAddress": {
+          "district": "Brahmanbaria",
+          "policeStation": "Nabinagar",
+          "villageOrArea": "",
+          "PostOffice": "",
+          "union": ""
+        },
+        "Graveyard": "At Brahmanbaria",
+        "deathDetails": "Taher was shot dead beside Al Jamiatul Islamia Darul Ulum Madrassa at 8.00 am on 6 May 2013."
+    },
+    {
+        "id": 28,
+        "name": "Md. Sumon Mollah",
+        "age": 18,
+        "parents": {
+          "father": "Habibullah",
+          "mother": "Fatema Begum"
+        },
+        "presentAddressAndProfession": {
+          "profession": "Student",
+          "institution": "Dhaka City International College",
+          "district": "Narayanganj",
+          "policeStation": "Siddhirganj",
+          "villageOrArea": "Sanarpar (Near Rahim Market)",
+          "PO": ""
+        },
+        "permanentAddress": {
+          "district": "Narayanganj",
+          "policeStation": "Araihazar",
+          "villageOrArea": "Dhondi",
+          "PostOffice": "Dhondi",
+          "union": "Haijadi"
+        },
+        "Graveyard": "At Dhondi",
+        "deathDetails": "He was shot at around 7:00 am on 6 May 2013 and died at hospital at 1:00 am on 7 May 2013."
+    },
+    {
+        "id": 29,
+        "name": "Saidul Islam",
+        "age": 25,
+        "parents": {
+          "father": "Mobarak Hossain",
+          "mother": ""
+        },
+        "presentAddressAndProfession": {
+          "profession": "Rickshaw van driver",
+          "institution": "",
+          "district": "Dhaka",
+          "policeStation": "Demra",
+          "villageOrArea": "North Sanarpar, Mohakash Road, Sarulia",
+          "PO": ""
+        },
+        "permanentAddress": {
+          "district": "Netrokona",
+          "policeStation": "Purbodhala",
+          "villageOrArea": "Mekshimul Ghagrabazar",
+          "PostOffice": "",
+          "union": ""
+        },
+        "Graveyard": "At Mekshimul Ghagrabazar",
+        "deathDetails": "He was shot in head and died at around 8.00 am on 6 May 2013."
+    },
+
+
+    {
+        "id": 30,
+        "name": "Habibullah",
+        "age": 35,
+        "parents": {
+          "father": "Abul Munsi",
+          "mother": "Sadia"
+        },
+        "presentAddressAndProfession": {
+          "profession": "Rickshaw puller",
+          "institution": "",
+          "district": "Narayanganj",
+          "policeStation": "Siddhirganj",
+          "villageOrArea": "East Bagmara",
+          "PO": ""
+        },
+        "permanentAddress": {
+          "district": "Chadpur",
+          "policeStation": "Kochua",
+          "villageOrArea": "Darchar",
+          "PostOffice": "",
+          "union": ""
+        },
+        "Graveyard": "At Darchar, Kochua, Chandpur",
+        "deathDetails": "He was shot in head and died on 6 May 2013 in Madaninagar, Siddhirganj, Narayanganj."
     }
 ]
