@@ -753,8 +753,6 @@
         "Graveyard": "At Mekshimul Ghagrabazar",
         "deathDetails": "He was shot in head and died at around 8.00 am on 6 May 2013."
     },
-
-
     {
         "id": 30,
         "name": "Habibullah",
@@ -780,5 +778,265 @@
         },
         "Graveyard": "At Darchar, Kochua, Chandpur",
         "deathDetails": "He was shot in head and died on 6 May 2013 in Madaninagar, Siddhirganj, Narayanganj."
+    },
+    {
+        "id": 31,
+        "name": "Abu Bakkar Shiddik",
+        "age": 30,
+        "parents": {
+          "father": "Anwar Hossain (Late)",
+          "mother": "Russia Begum"
+        },
+        "presentAddressAndProfession": {
+          "profession": "Welding business (Comilla Metal Engineering & Mechanical Training Centre)",
+          "institution": "",
+          "district": "Narayanganj",
+          "policeStation": "Siddhirganj",
+          "villageOrArea": "Sanarpar (Al Jamiatul Darul Ulum Madrassa Road)",
+          "PO": ""
+        },
+        "permanentAddress": {
+          "district": "Narayanganj",
+          "policeStation": "Siddhirganj",
+          "villageOrArea": "Madaninagar",
+          "PostOffice": "Sanarpar",
+          "union": ""
+        },
+        "Graveyard": "At Graveyard in Siddhirganj, Narayanganj",
+        "deathDetails": "He was shot in the abdomen at around 7:30 am on 6 May and died on the way to a hospital at Sanarpar at around 8:30 am."
+    },
+    {
+        "id": 32,
+        "name": "Md. Shaiful Islam",
+        "age": 25,
+        "parents": {
+            "father": "Hasem Bhuiyan",
+            "mother": "Solema Begum"
+        },
+        "presentAddressAndProfession": {
+            "profession": "Salesman",
+            "institution": "Fahim Fashion (Clothing shop in Chashara, Narayanganj)",
+            "district": "Narayanganj",
+            "policeStation": "",
+            "villageOrArea": "192/3 College Road",
+            "PO": ""
+        },
+        "permanentAddress": {
+            "district": "Narayanganj",
+            "policeStation": "Araihazar",
+            "villageOrArea": "Ashurhat",
+            "PostOffice": "",
+            "union": ""
+        },
+        "Graveyard": "At a graveyard in Araihazar, Narayanganj",
+        "deathDetails": "He was shot in head and died on 6 May 2013 at around 8:30 am."
+    },
+    {
+        "id": 33,
+        "name": "Abdul Hannan",
+        "age": 35,
+        "parents": {
+            "father": "Abdul Baten",
+            "mother": "Ojufa Begum"
+        },
+        "presentAddressAndProfession": {
+            "profession": "He worked at a sweater factory as Iron supervisor.",
+            "institution": "Al-Amin Export Ltd (Kanchpur, Narayanganj)",
+            "district": "Narayanganj",
+            "policeStation": "Siddhirganj",
+            "villageOrArea": "Madaninagar(Near to Darul Ulom Madrassa)",
+            "PO": ""
+        },
+        "permanentAddress": {
+            "district": "Narshingdi",
+            "policeStation": "Raipura",
+            "villageOrArea": "Adiabad Maddhopara",
+            "PostOffice": "",
+            "union": ""
+        },
+        "Graveyard": "At Adiabad Moddhopara Graveyard in Raipura, Narshingdi",
+        "deathDetails": "He was shot in chest and died at 6.00 am in 6 May 2013."
+    },
+    {
+        "id": 34,
+        "name": "Abu Sayeed",
+        "age": "",
+        "parents": {
+            "father": "",
+            "mother": ""
+        },
+        "presentAddressAndProfession": {
+            "profession": "",
+            "institution": "",
+            "district": "Dhaka",
+            "policeStation": "Demra",
+            "villageOrArea": "Boxnagar",
+            "PO": ""
+        },
+        "permanentAddress": {
+            "district": "Brahmanbaria",
+            "policeStation": "Nabinagar",
+            "villageOrArea": "",
+            "PostOffice": "",
+            "union": ""
+        },
+        "Graveyard": "At Nabinagar, Brahmanbaria",
+        "deathDetails": "Abu Sayeed was shot dead beside Al Jamiatul Islamia Darul Ulum Madrassa at around 8.00 am on 6 May 2013."
+    },
+    {
+        "id": 35,
+        "name": "Alamgir",
+        "age": 40,
+        "parents": {
+          "father": "Golap Chan",
+          "mother": "Fatema"
+        },
+        "presentAddressAndProfession": {
+          "profession": "Petty Trader",
+          "institution": "",
+          "district": "Dhaka",
+          "policeStation": "Sutrapur",
+          "villageOrArea": "79/1 C, Distillery Road, Gandaria",
+          "PO": "Dhaka-1204"
+        },
+        "permanentAddress": {
+          "district": "Dhaka",
+          "policeStation": "Sutrapur",
+          "villageOrArea": "79/1 C, Distillery Road, Gandaria",
+          "PostOffice": "",
+          "union": "Dhaka-1204"
+        },
+        "Graveyard": "At Jurain Graveyard, Dhaka",
+        "deathDetails": "He was shot in the eye on 5 May 2013 and died on 8 May 2013 at Dhaka Medical College Hospital."
+    },
+    {
+        "id": 36,
+        "name": "Mohammad Jasim (speech impaired)",
+        "age": 28,
+        "parents": {
+            "father": "Ali Ahmed",
+            "mother": "Firoza Begum"
+        },
+        "presentAddressAndProfession": {
+            "profession": "He was a local bus helper",
+            "institution": "",
+            "district": "Narayanganj",
+            "policeStation": "",
+            "villageOrArea": "Painadi, Natun Moholla",
+            "PO": ""
+        },
+        "permanentAddress": {
+            "district": "Narayanganj",
+            "policeStation": "",
+            "villageOrArea": "Painadi, Natun Moholla",
+            "PostOffice": "",
+            "union": ""
+        },
+        "Graveyard": "At Painadi Graveyard in Natun Moholla, Narayanganj",
+        "deathDetails": "He was speech impaired. He was shot dead at 8:30 am on 6 May 2013."
+    },
+    {
+        "id": 37,
+        "name": "AKM Rehan Ahsan",
+        "age": 28,
+        "parents": {
+            "father": "Mamun Ahsan",
+            "mother": ""
+        },
+        "presentAddressAndProfession": {
+            "profession": "Student",
+            "institution": "BUET",
+            "district": "Dhaka",
+            "policeStation": "",
+            "villageOrArea": "353/1, B - South Paikpara",
+            "PO": ""
+        },
+        "permanentAddress": {
+            "district": "Naogaon",
+            "policeStation": "",
+            "villageOrArea": "Parnaogaon",
+            "PostOffice": "",
+            "union": ""
+        },
+        "Graveyard": "At a graveyard in Parnaogaon, Naogaon",
+        "deathDetails": "Deceased's family did not want to provide any information. 01.09.2013"
+    },
+    {
+        "id": 38,
+        "name": "Md. Aminur Rahman",
+        "age": 41,
+        "parents": {
+            "father": "Md. Mahfuzur Rahman",
+            "mother": "Anwara Begum"
+        },
+        "presentAddressAndProfession": {
+            "profession": "Worker",
+            "institution": "Adamjee EPZ EPK-1 Garments factory",
+            "district": "Narayanganj",
+            "policeStation": "Siddhirganj",
+            "villageOrArea": "Nimai Kasari",
+            "PO": "Sanarpar - 1230"
+        },
+        "permanentAddress": {
+            "district": "Rajbari",
+            "policeStation": "Baliyakandi",
+            "villageOrArea": "Shamukkhula",
+            "PostOffice": "",
+            "union": ""
+        },
+        "Graveyard": "At a graveyard in Rajbari",
+        "deathDetails": "He was shot in the abdomen and waist at 7:30 am on 6 May 2013. He was taken to Apollo Hospital by his colleagues where he died on 9 May 2013."
+    },
+    {
+        "id": 39,
+        "name": "Mizanur Rahman",
+        "age": 20,
+        "parents": {
+            "father": "",
+            "mother": ""
+        },
+        "presentAddressAndProfession": {
+            "profession": "Covered van helper",
+            "institution": "",
+            "district": "",
+            "policeStation": "",
+            "villageOrArea": "",
+            "PO": ""
+        },
+        "permanentAddress": {
+            "district": "",
+            "policeStation": "",
+            "villageOrArea": "",
+            "PostOffice": "",
+            "union": ""
+        },
+        "Graveyard": "",
+        "deathDetails": "He was shot dead on 6 May 2013"
+    },
+    {
+        "id": 40,
+        "name": "Babu Gazi",
+        "age": 35,
+        "parents": {
+            "father": "Ali Hossain Gazi",
+            "mother": "Ashia Begum (Late)"
+        },
+        "presentAddressAndProfession": {
+            "profession": "Worker",
+            "institution": "Switch Factory",
+            "district": "Narayanganj",
+            "policeStation": "",
+            "villageOrArea": "Mouchak, Mijmiji Madrassa Road, Sanarpar (Chittagong Road)",
+            "PO": ""
+        },
+        "permanentAddress": {
+            "district": "Shariatpur",
+            "policeStation": "Noria",
+            "villageOrArea": "Upshi",
+            "PostOffice": "Upshi",
+            "union": ""
+        },
+        "Graveyard": "At Upshi Graveyard in Noria, Shariatpur",
+        "deathDetails": "He was shot dead on 6 May 2013 in Chittagong Road."
     }
 ]
