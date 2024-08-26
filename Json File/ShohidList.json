@@ -1221,8 +1221,6 @@
         "Graveyard": "At family graveyard in Brahmanbaria",
         "deathDetails": "He was shot in forehead on 6 May 2013. At around 11:00 am, the family was informed by a doctor from Sugandha Hospital, Dohar. He was later referred to DMCH. He died on the way to DMCH."
       },
-
-      
       {
         "id": 48,
         "name": "Kazi Alim Ullah Faruk",
@@ -1234,16 +1232,16 @@
         "presentAddressAndProfession": {
           "profession": "Vegetable trader",
           "institution": "",
-          "district": "Feni",
-          "policeStation": "Fulgazi",
-          "villageOrArea": "Sree Chandrapur",
+          "district": "Narayanganj",
+          "policeStation": "Siddhirganj",
+          "villageOrArea": "Sanarpar",
           "PO": ""
         },
         "permanentAddress": {
           "district": "Feni",
           "policeStation": "Fulgazi",
           "villageOrArea": "Sree Chandrapur",
-          "PostOffice": "",
+          "PostOffice": "GM Hatbazar",
           "union": ""
         },
         "Graveyard": "Beside Sree Chandrapur Masjid, in Fulgazi, Feni",
@@ -1254,7 +1252,7 @@
         "name": "Mohammad Sekindar",
         "age": 51,
         "parents": {
-          "father": "Moyez Uddin",
+          "father": "Moyez",
           "mother": "Most. Jobeda"
         },
         "presentAddressAndProfession": {
@@ -1269,10 +1267,10 @@
           "district": "Bogra",
           "policeStation": "Adamdighi",
           "villageOrArea": "Kathla",
-          "PostOffice": "",
-          "union": "Kundagram"
+          "PostOffice": "Shibbati",
+          "union": ""
         },
-        "Graveyard": "His body could not be found (Last communication on 22/02/2021)",
+        "Graveyard": "His body could not be found.",
         "deathDetails": "On 3 May 2013, he went to Dhaka to attend the Hefazat Islam rally. On 5 May 2013 after joining the assembly of Hefazat Islam, he went missing. His family believed that he was shot dead."
       },
       {
@@ -1286,19 +1284,19 @@
         "presentAddressAndProfession": {
           "profession": "Garment worker",
           "institution": "",
-          "district": "Narayanganj",
-          "policeStation": "Siddhirganj",
+          "district": "",
+          "policeStation": "",
           "villageOrArea": "",
           "PO": ""
         },
         "permanentAddress": {
-          "district": "Narayanganj",
-          "policeStation": "Siddhirganj",
+          "district": "",
+          "policeStation": "",
           "villageOrArea": "",
           "PostOffice": "",
           "union": ""
         },
-        "Graveyard": "Shukurshi Graveyard in Demra, Dhaka (Regd No. 2579)",
+        "Graveyard": "",
         "deathDetails": "He was shot and died on 6 May 2013 at Shougandha Hospital, Siddhirganj, Narayanganj."
       },
       {
@@ -1318,13 +1316,13 @@
           "PO": ""
         },
         "permanentAddress": {
-          "district": "Narayanganj",
-          "policeStation": "Siddhirganj",
-          "villageOrArea": "Chittagong Road",
+          "district": "Chandpur",
+          "policeStation": "Matlab",
+          "villageOrArea": "",
           "PostOffice": "",
           "union": ""
         },
-        "Graveyard": "Sukurshi Graveyard in Demra, Dhaka (Regd No. 2579)",
+        "Graveyard": "At Sukurshi Graveyard in Demra, Dhaka (Regd No. 2579)",
         "deathDetails": "He was shot in throat and back and dead on 6 May 2013 at 8:30 am."
       },
       {
@@ -1332,8 +1330,8 @@
         "name": "Mohammad Salauddin",
         "age": 27,
         "parents": {
-          "father": "Malek Abdul Majid",
-          "mother": "Begum"
+          "father": "Abdul Malek",
+          "mother": "Majeda Begum"
         },
         "presentAddressAndProfession": {
           "profession": "Driver of covered van",
@@ -1350,7 +1348,7 @@
           "PostOffice": "",
           "union": ""
         },
-        "Graveyard": "Uttar Semulia Orphanage Graveyard in Dohar, Dhaka",
-        "deathDetails": "On 6 May 2013 at 9:00 am, he was hit in head with stick by police and severely injured in front of Madaninagar Madrassa. He was taken to Narayanganj hospital first from where the doctors referred him to Dhaka Medical College Hospital. As ICC bed was not vacant in DMCH, he was later admitted to Nirupama Hospital, Dhanmondi, Dhaka, where he died on 7 May 2013 at 11:00 am. His body was exhumed after 48 days for autopsy."
+        "Graveyard": "At Uttar Semulia Orphanage Graveyard in Dohar, Dhaka",
+        "deathDetails": "On 6 May 2013 at 9:00 am, he was hit in head with stick by police and severely injured in front of Madaninagar Madrassa. He was taken to Narayanganj hospital first from where the doctors referred him to Dhaka Medical College Hospital. As ICC bed was not vacant in DMCH, he was later admitted to Nirupoma Hospital, Dhanmondi, Dhaka, where he died on 7 May 2013 at 11:00 am. His body was exhumed after 48 days for autopsy."
       }
 ]
