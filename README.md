@@ -1,4 +1,4 @@
-# Shapla Chatwar Tragedy 2013 Data in JSON
+# Shapla Chattar Tragedy 2013 Data in JSON
 
 **Data Format:** JSON
 
