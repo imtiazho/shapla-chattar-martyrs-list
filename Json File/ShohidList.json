@@ -1038,5 +1038,319 @@
         },
         "Graveyard": "At Upshi Graveyard in Noria, Shariatpur",
         "deathDetails": "He was shot dead on 6 May 2013 in Chittagong Road."
-    }
+    },
+    {
+        "id": 41,
+        "name": "Motiur Rahman",
+        "age": 27,
+        "parents": {
+          "father": "Aman Ullah",
+          "mother": ""
+        },
+        "presentAddressAndProfession": {
+          "profession": "Student, Kerat Department",
+          "institution": "Rajakhali Ma'had Ummul Kora Wassunnah Darul Ifta",
+          "district": "",
+          "policeStation": "",
+          "villageOrArea": "",
+          "PO": ""
+        },
+        "permanentAddress": {
+          "district": "Cox's Bazar",
+          "policeStation": "Ramu",
+          "villageOrArea": "Ukhiar Ghona Tilapara",
+          "PostOffice": "",
+          "union": "Kauarkup"
+        },
+        "Graveyard": "At a family graveyard in Cox's Bazar",
+        "deathDetails": "He attended the Hifazat-e-Islam rally on 5 May 2013 in Dhaka. He was killed in a clash between police and Hefazat activists in Comilla on 6 May, while returning home after attending the rally."
+      },
+      {
+        "id": 42,
+        "name": "Habibur Rahman",
+        "age": 30,
+        "parents": {
+          "father": "Abdul Gani Khan (Late)",
+          "mother": "Halima Begum"
+        },
+        "presentAddressAndProfession": {
+          "profession": "Rickshaw puller",
+          "institution": "",
+          "district": "Narayanganj",
+          "policeStation": "Siddhirganj",
+          "villageOrArea": "",
+          "PO": ""
+        },
+        "permanentAddress": {
+          "district": "",
+          "policeStation": "",
+          "villageOrArea": "",
+          "PostOffice": "",
+          "union": ""
+        },
+        "Graveyard": "",
+        "deathDetails": "He was shot dead on 6 May 2013 near Madani Nagar Madrassa, Siddhirganj."
+      },
+      {
+        "id": 43,
+        "name": "Mohammad Harun Or Rashid",
+        "age": 41,
+        "parents": {
+          "father": "Abdul Gani Khan (Late)",
+          "mother": "Halima Begum"
+        },
+        "presentAddressAndProfession": {
+          "profession": "Street hawker",
+          "institution": "",
+          "district": "Barisal",
+          "policeStation": "Muladi",
+          "villageOrArea": "Toyeka",
+          "PO": ""
+        },
+        "permanentAddress": {
+          "district": "Barisal",
+          "policeStation": "Muladi",
+          "villageOrArea": "Toyeka",
+          "PostOffice": "",
+          "union": ""
+        },
+        "Graveyard": "At Muladi, Barisal",
+        "deathDetails": "On 7 May 2013, the family was able to know about Harun's death by newspaper. His relatives claimed that Harunur Rashid was beaten to death."
+      },
+      {
+        "id": 44,
+        "name": "Masum Khan",
+        "age": 22,
+        "parents": {
+          "father": "Babul Khan",
+          "mother": "Nurjahan Khan"
+        },
+        "presentAddressAndProfession": {
+          "profession": "Electrcian",
+          "institution": "",
+          "district": "",
+          "policeStation": "",
+          "villageOrArea": "",
+          "PO": ""
+        },
+        "permanentAddress": {
+          "district": "Chandpur",
+          "policeStation": "Chandpur Sadar",
+          "villageOrArea": "Sokodi",
+          "PostOffice": "",
+          "union": ""
+        },
+        "Graveyard": "A family graveyard",
+        "deathDetails": "He was shot in chest and died on 6 May 2013 at around 10:00 am in Dhaka-Chittagong Road area."
+      },
+      {
+        "id": 45,
+        "name": "Khaled Saifullah",
+        "age": 15,
+        "parents": {
+          "father": "Abdul Jalil",
+          "mother": "Khadija"
+        },
+        "presentAddressAndProfession": {
+          "profession": "Student (SSC Examinee)",
+          "institution": "Ali Akbar Model High School",
+          "district": "Narayanganj",
+          "policeStation": "Siddhirganj",
+          "villageOrArea": "Rosulbag, Bottola",
+          "PO": ""
+        },
+        "permanentAddress": {
+          "district": "Chadpur",
+          "policeStation": "Faridganj",
+          "villageOrArea": "Munshirhat",
+          "PostOffice": "",
+          "union": ""
+        },
+        "Graveyard": "At Dogair graveyard in Demra, Dhaka",
+        "deathDetails": "He was shot in waist on 6 May 2013 at around 10:00 am and taken to Sajeda Hospital in Kanchpur where he died."
+      },
+      {
+        "id": 46,
+        "name": "Jewel",
+        "age": 28,
+        "parents": {
+          "father": "",
+          "mother": ""
+        },
+        "presentAddressAndProfession": {
+          "profession": "He was worker",
+          "institution": "Sinha textile ltd.",
+          "district": "",
+          "policeStation": "",
+          "villageOrArea": "",
+          "PO": ""
+        },
+        "permanentAddress": {
+          "district": "Brahmanbaria",
+          "policeStation": "Sarail",
+          "villageOrArea": "Dewra, Purbopara",
+          "PostOffice": "",
+          "union": ""
+        },
+        "Graveyard": "",
+        "deathDetails": "He was shot dead on 6 May 2013."
+      },
+      {
+        "id": 47,
+        "name": "Md. Marjanul Islam Sourov",
+        "age": 15,
+        "parents": {
+          "father": "Md. Enamul Islam",
+          "mother": "Afroza Begum"
+        },
+        "presentAddressAndProfession": {
+          "profession": "Student (SSC Examinee)",
+          "institution": "Sanarpar Sheikh Mortuza Ali High School",
+          "district": "Narayanganj",
+          "policeStation": "Siddhirganj",
+          "villageOrArea": "Nimaikashari Bazar, Bagmara",
+          "PO": ""
+        },
+        "permanentAddress": {
+          "district": "Brahmanbaria",
+          "policeStation": "Sarail",
+          "villageOrArea": "Dewra, Purbopara",
+          "PostOffice": "",
+          "union": "Shahjadpur"
+        },
+        "Graveyard": "At family graveyard in Brahmanbaria",
+        "deathDetails": "He was shot in forehead on 6 May 2013. At around 11:00 am, the family was informed by a doctor from Sugandha Hospital, Dohar. He was later referred to DMCH. He died on the way to DMCH."
+      },
+
+      
+      {
+        "id": 48,
+        "name": "Kazi Alim Ullah Faruk",
+        "age": 32,
+        "parents": {
+          "father": "Kazi Rahmat Ullah",
+          "mother": "Rufia Khatun"
+        },
+        "presentAddressAndProfession": {
+          "profession": "Vegetable trader",
+          "institution": "",
+          "district": "Feni",
+          "policeStation": "Fulgazi",
+          "villageOrArea": "Sree Chandrapur",
+          "PO": ""
+        },
+        "permanentAddress": {
+          "district": "Feni",
+          "policeStation": "Fulgazi",
+          "villageOrArea": "Sree Chandrapur",
+          "PostOffice": "",
+          "union": ""
+        },
+        "Graveyard": "Beside Sree Chandrapur Masjid, in Fulgazi, Feni",
+        "deathDetails": "On 6 May 2013 at around 5.00 am, he was shot in head and died. His body was found in Victoria Hospital, Narayanganj."
+      },
+      {
+        "id": 49,
+        "name": "Mohammad Sekindar",
+        "age": 51,
+        "parents": {
+          "father": "Moyez Uddin",
+          "mother": "Most. Jobeda"
+        },
+        "presentAddressAndProfession": {
+          "profession": "Farmer",
+          "institution": "",
+          "district": "Bogra",
+          "policeStation": "Adamdighi",
+          "villageOrArea": "Kathla",
+          "PO": "Shibbati"
+        },
+        "permanentAddress": {
+          "district": "Bogra",
+          "policeStation": "Adamdighi",
+          "villageOrArea": "Kathla",
+          "PostOffice": "",
+          "union": "Kundagram"
+        },
+        "Graveyard": "His body could not be found (Last communication on 22/02/2021)",
+        "deathDetails": "On 3 May 2013, he went to Dhaka to attend the Hefazat Islam rally. On 5 May 2013 after joining the assembly of Hefazat Islam, he went missing. His family believed that he was shot dead."
+      },
+      {
+        "id": 50,
+        "name": "Md. Hannan",
+        "age": 32,
+        "parents": {
+          "father": "Idris Ali",
+          "mother": ""
+        },
+        "presentAddressAndProfession": {
+          "profession": "Garment worker",
+          "institution": "",
+          "district": "Narayanganj",
+          "policeStation": "Siddhirganj",
+          "villageOrArea": "",
+          "PO": ""
+        },
+        "permanentAddress": {
+          "district": "Narayanganj",
+          "policeStation": "Siddhirganj",
+          "villageOrArea": "",
+          "PostOffice": "",
+          "union": ""
+        },
+        "Graveyard": "Shukurshi Graveyard in Demra, Dhaka (Regd No. 2579)",
+        "deathDetails": "He was shot and died on 6 May 2013 at Shougandha Hospital, Siddhirganj, Narayanganj."
+      },
+      {
+        "id": 51,
+        "name": "Nazir Ahmed",
+        "age": 32,
+        "parents": {
+          "father": "Md. Shahidullah",
+          "mother": "Delowara"
+        },
+        "presentAddressAndProfession": {
+          "profession": "Petty trader",
+          "institution": "",
+          "district": "Narayanganj",
+          "policeStation": "Siddhirganj",
+          "villageOrArea": "Chittagong Road",
+          "PO": ""
+        },
+        "permanentAddress": {
+          "district": "Narayanganj",
+          "policeStation": "Siddhirganj",
+          "villageOrArea": "Chittagong Road",
+          "PostOffice": "",
+          "union": ""
+        },
+        "Graveyard": "Sukurshi Graveyard in Demra, Dhaka (Regd No. 2579)",
+        "deathDetails": "He was shot in throat and back and dead on 6 May 2013 at 8:30 am."
+      },
+      {
+        "id": 52,
+        "name": "Mohammad Salauddin",
+        "age": 27,
+        "parents": {
+          "father": "Malek Abdul Majid",
+          "mother": "Begum"
+        },
+        "presentAddressAndProfession": {
+          "profession": "Driver of covered van",
+          "institution": "",
+          "district": "Dhaka",
+          "policeStation": "Dohar",
+          "villageOrArea": "Meghula Bazar, Uttar Semulia",
+          "PO": ""
+        },
+        "permanentAddress": {
+          "district": "Dhaka",
+          "policeStation": "Dohar",
+          "villageOrArea": "Meghula Bazar, Uttar Semulia",
+          "PostOffice": "",
+          "union": ""
+        },
+        "Graveyard": "Uttar Semulia Orphanage Graveyard in Dohar, Dhaka",
+        "deathDetails": "On 6 May 2013 at 9:00 am, he was hit in head with stick by police and severely injured in front of Madaninagar Madrassa. He was taken to Narayanganj hospital first from where the doctors referred him to Dhaka Medical College Hospital. As ICC bed was not vacant in DMCH, he was later admitted to Nirupama Hospital, Dhanmondi, Dhaka, where he died on 7 May 2013 at 11:00 am. His body was exhumed after 48 days for autopsy."
+      }
 ]
